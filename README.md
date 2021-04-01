@@ -21,7 +21,7 @@ Hi, I'm Zain Zulifqar, a Full Stack Developer 🚀 from Pakistan, currently, I e
 
 - 👨🏽‍💻 I’m currently working on Personalized Landing Pages;
 - 🌱 I’m currently learning Vuejs and SEO; 
-- 👯 I’m looking to collaborate on Virtual Digital Experience 🤝;
+- 👯 I’m looking to collaborate on Personalized Landing Pages & Virtual Digital Experience 🤝;
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
